@@ -25,7 +25,7 @@ Computer Science student at the Federal University of Pará (UFPA), focused on b
 
 Currently working at Amazon Connection Carbon with technology solutions applied to ecosystem restoration and ARR carbon credit projects, contributing to backend services, automation workflows, internal systems, and data organization.
 
-I enjoy understanding how systems work internally — from backend architecture and APIs to Linux environments, infrastructure, automation, networking, and low-level computing concepts.
+I enjoy understanding how systems work internally — from backend architecture and Linux environments, infrastructure, automation, networking, and low-level computing concepts.
 
 ---
 
