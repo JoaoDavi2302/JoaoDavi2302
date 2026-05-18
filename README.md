@@ -90,7 +90,6 @@ I enjoy understanding how systems work internally — from backend architecture 
 
 > I enjoy treating software development as engineering rather than just coding — understanding trade-offs, maintainability, scalability, and how software interacts with infrastructure.
 
-> Always learning through real projects, experimentation, and building things from the ground up.
 
 ---
 
