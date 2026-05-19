@@ -70,7 +70,6 @@ I enjoy understanding how systems work internally — from backend architecture 
 • Networking
 • Automation & Workflow Design
 • Data Processing Pipelines
-• Self-hosted Technologies
 • Artificial Intelligence
 ```
 
