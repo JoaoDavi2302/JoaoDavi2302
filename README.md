@@ -10,7 +10,7 @@ Backend Developer • Software Engineering Student • Systems & Infrastructure
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/Profile-Backend%20Engineer-b16286?style=for-the-badge\&logo=github\&logoColor=ebdbb2\&labelColor=282828)
+![Profile Views](https://img.shields.io/badge/Profile-Backend%20Developer-b16286?style=for-the-badge\&logo=github\&logoColor=ebdbb2\&labelColor=282828)
 ![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge\&logo=linux\&logoColor=fabd2f)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-282828?style=for-the-badge\&logo=arch-linux\&logoColor=83a598)
 ![Docker](https://img.shields.io/badge/Docker-282828?style=for-the-badge\&logo=docker\&logoColor=83a598)
